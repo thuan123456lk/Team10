@@ -1,0 +1,27 @@
+#productList {
+    font-family: Arial, Helvetica, sans-serif; 
+    border-collapse: collapse;
+    width: 100%;
+    }
+    productList td, #productlist th {
+        border: 1px solid #ddd;
+        padding: 8px;
+    }   
+    #productList tr:nth-child(even)  {background-color:#f2f2f2;}
+    #productList tr:hover {background-color: #ddd;}
+    #productList th {
+    padding-top: 12px; 
+    padding-bottom: 12px; 
+    text-align: Left;
+    background-color: #4A6D; 
+    color: white;
+    }
+    buttont{
+    background-color: #2F54EB; 
+    padding: 8px 16px;
+    } button a{
+        color:white;
+    }
+    a{
+        text-decoration:none;
+    }
